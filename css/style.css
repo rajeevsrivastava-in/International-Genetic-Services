@@ -335,6 +335,12 @@ hr {
     font-size: 18px;
 }
 
+#intro p {
+  text-align: justify;
+  padding-left: 100px;
+  padding-right: 100px;
+}
+
 .intro .slogan h2 {
 	color: #FFF;
 	text-shadow: none;
@@ -368,25 +374,26 @@ hr {
 
 .boxed-grey2 {
   background: #fff;
-  height: 750px;
+  height: 1400px;
   padding: 20px;
   margin-top: 50px;
 }
 
 #services {
-width: 500px;
+width: 600px;
 padding-left: 50px;
 padding-top: 50px;
 float: left;
 }
 
 #services p {
-text-align: left;
+text-align: justify;
 
 }
 #services li {
 text-align: left;
-margin-left: 25px;
+margin-left: 15px;
+font-size: 16px;
 
 }
 #services h3 {
